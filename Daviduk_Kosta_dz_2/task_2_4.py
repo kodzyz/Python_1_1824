@@ -19,4 +19,5 @@ phrase = f'{n_2.title()} - главный бухгалтер'
 print(phrase)
 phrase = f'{n_3.title()} - токарь высокого полета'
 print(phrase)
+
 # списка получилось два

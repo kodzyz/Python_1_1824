@@ -33,6 +33,5 @@ str_integer = '/'.join(integer_)
 hour, min, temp = str_integer.split('/')
 f_str = f'в "{hour}" часов "{min}" минут температура воздуха была "{temp}" градусов'
 print(f_str)
-
 #в "05" часов "17" минут температура воздуха была "+05" градусов
 
