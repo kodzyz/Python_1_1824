@@ -48,5 +48,4 @@ for cost in mo_exp:
          print(f'"{int(ru_cost)} руб 0{pen_cost * 100:.0f} коп",', end=' ')
      else:
          print(f'"{int(ru_cost)} руб {pen_cost*100:.0f} коп",', end=' ')
-
 #"32 руб 77 коп", "41 руб 02 коп", "51 руб 01 коп", "66 руб 18 коп", "76 руб 69 коп",
