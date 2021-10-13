@@ -1,0 +1,27 @@
+PS C:\PyProjects\Python_1_1824\Daviduk_Kosta_dz_4> pip show Pillow
+Name:
+Version: 8.3.2
+Summary: Python Imaging Library (Fork)
+Home-page: https://python-pillow.org
+Author: Alex Clark (PIL Fork Author)
+Author-email: aclark@python-pillow.org
+License: HPND
+Location: c:\python3\lib\site-packages
+Requires:
+
+(venv) PS C:\PyProjects\Python_1_1824\Daviduk_Kosta_dz_4> pip show pillow
+Name: Pillow
+Version: 8.3.2
+Summary: Python Imaging Library (Fork)
+Home-page: https://python-pillow.org
+Author: Alex Clark (PIL Fork Author)
+Author-email: aclark@python-pillow.org
+License: HPND
+Location: c:\pyprojects\python_1_1824\daviduk_kosta_dz_4\venv\lib\site-packages
+Requires:
+
+(venv) PS C:\PyProjects\Python_1_1824\Daviduk_Kosta_dz_4> pip freeze
+Pillow==8.3.2
+
+(venv) PS C:\PyProjects\Python_1_1824\Daviduk_Kosta_dz_4> deactivate
+PS C:\PyProjects\Python_1_1824\Daviduk_Kosta_dz_4>
